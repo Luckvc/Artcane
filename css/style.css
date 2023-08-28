@@ -37,6 +37,8 @@ html, body{
 
 .logo{
     width: 50%;
+    max-height: 100px;
+    object-fit: cover;
 }
 
 .menu{
